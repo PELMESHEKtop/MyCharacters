@@ -1,0 +1,13 @@
+type Hero with name Kosharaget
+    Koshara.iq = 20
+    Kosharaget.legs = 2
+    Kosharaget/arms = 2
+
+Kosharaget can:
+    move
+    say
+    flipback
+    hook
+
+
+lore =" КОШАРА ОДНАЖДЫ ГУЛЯЛА ПО ГОРОДУ. НО ВДРУГ ПОДОШЕЛ К НЕЙ ПЭЛМЭН"SSSSSSS
